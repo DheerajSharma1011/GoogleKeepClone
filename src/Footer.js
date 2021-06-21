@@ -4,7 +4,7 @@ const Footer = () => {
 return(
 <>
 <footer>
-<p>copyright Ⓒ {year}</p>
+    <p>copyright Ⓒ {year}</p>
 </footer>
 </>
 	)
